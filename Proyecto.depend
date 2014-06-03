@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1401749731 source:/home/cvarela/Desktop/PROGRA3/Proyecto/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	<stdlib.h>
+	<iostream>
+	"Enemies.h"
+	<list>
+	"derecha.h"
+	"abajo.h"
+	"arriba.h"
+	<sstream>
+	<fstream>
+	"SDL/SDL_ttf.h"
+
+1401733685 source:/home/cvarela/Desktop/PROGRA3/Proyecto/Enemies.cpp
+	"Enemies.h"
+
+1401683047 /home/cvarela/Desktop/PROGRA3/Proyecto/Enemies.h
+	<SDL/SDL.h>
+	<iostream>
+
+1401733697 source:/home/cvarela/Desktop/PROGRA3/Proyecto/derecha.cpp
+	"derecha.h"
+
+1401681851 /home/cvarela/Desktop/PROGRA3/Proyecto/derecha.h
+	"Enemies.h"
+
+1401733751 source:/home/cvarela/Desktop/PROGRA3/Proyecto/abajo.cpp
+	"abajo.h"
+
+1401683701 /home/cvarela/Desktop/PROGRA3/Proyecto/abajo.h
+	"Enemies.h"
+
+1401733710 source:/home/cvarela/Desktop/PROGRA3/Proyecto/arriba.cpp
+	"arriba.h"
+
+1401687134 /home/cvarela/Desktop/PROGRA3/Proyecto/arriba.h
+	"Enemies.h"
+
+1401819076 source:/home/mendez/Documents/ProyectoProgra3/abajo.cpp
+	"abajo.h"
+
+1401819082 /home/mendez/Documents/ProyectoProgra3/abajo.h
+	"Enemies.h"
+
+1401819103 /home/mendez/Documents/ProyectoProgra3/Enemies.h
+	<SDL/SDL.h>
+	<iostream>
+
+1401819051 source:/home/mendez/Documents/ProyectoProgra3/arriba.cpp
+	"arriba.h"
+
+1401819089 /home/mendez/Documents/ProyectoProgra3/arriba.h
+	"Enemies.h"
+
+1401819027 source:/home/mendez/Documents/ProyectoProgra3/derecha.cpp
+	"derecha.h"
+
+1401819095 /home/mendez/Documents/ProyectoProgra3/derecha.h
+	"Enemies.h"
+
+1401819038 source:/home/mendez/Documents/ProyectoProgra3/Enemies.cpp
+	"Enemies.h"
+
+1401820892 source:/home/mendez/Documents/ProyectoProgra3/main.cpp
+	"SDL/SDL.h"
+	"SDL/SDL_image.h"
+	<string>
+	<stdlib.h>
+	<iostream>
+	"Enemies.h"
+	<list>
+	"derecha.h"
+	"abajo.h"
+	"arriba.h"
+	<sstream>
+	<fstream>
+	"SDL/SDL_ttf.h"
+
